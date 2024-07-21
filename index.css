@@ -8,7 +8,7 @@ animation : 10s infinite linear;
 .sky
 {
 width:100vw;
-height:15vw;
+height:10vw;
 background-color: linear-gradient(135deg, #004e92, #000428);
 position:relative;
 display:flex;
