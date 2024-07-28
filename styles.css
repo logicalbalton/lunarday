@@ -16,6 +16,18 @@ header .hero {
     color: white;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
 }
+/* Example CSS in styles.css or index.css */
+.menu {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
 
 header .animated-text {
     font-size: 3em;
